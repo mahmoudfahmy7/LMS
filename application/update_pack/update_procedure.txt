@@ -1,0 +1,9 @@
+Update instructions from version 2.3 to 2.4 -
+PLEASE READ AND FOLLOW THE STEPS CAREFULLY.
+Before starting, keep a backup of files and database of your running 2.3 version. So that there will be no fear of losing data.
+1. First, Login as Admin.
+2. Click on "System Settings" option.
+3. Move to "Update Product" section.
+4. Upload the file "update_2.4.zip". Which is located at "update_pack/update_2.4.zip".
+5. You will get success message that you have successfully updated your application to the latest version of 2.4. If you face any kind of difficulties, let us know through tickets.
+That's it.

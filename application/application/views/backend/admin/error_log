@@ -1,0 +1,28 @@
+[28-Mar-2020 14:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
+[28-Mar-2020 14:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
+[28-Mar-2020 14:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
+[28-Mar-2020 14:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
+[28-Mar-2020 14:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
+[28-Mar-2020 14:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
+[28-Mar-2020 14:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/arablapc/public_html/hub.arablap.com/application/views/backend/admin/coupons.php on line 6
